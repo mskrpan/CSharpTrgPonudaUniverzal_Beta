@@ -1,0 +1,15 @@
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\bin\Debug\Artikli.mdf
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\bin\Debug\Artikli_log.ldf
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\bin\Debug\itextsharp.dll
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\bin\Debug\itextsharp.xtra.dll
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\bin\Debug\itextsharp.xml
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\obj\Debug\CShapTrgPonudaUniversal.csprojResolveAssemblyReference.cache
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\obj\Debug\ZoranPonuda.Form1.resources
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\obj\Debug\CShapTrgPonudaUniversal.csproj.GenerateResource.Cache
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\bin\Debug\TrgPonuda.exe.config
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\bin\Debug\TrgPonuda.exe
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\bin\Debug\TrgPonuda.pdb
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\obj\Debug\TrgPonuda.Properties.Resources.resources
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\obj\Debug\TrgPonuda.exe
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\ZoranPonuda\ZoranPonuda\obj\Debug\TrgPonuda.pdb
